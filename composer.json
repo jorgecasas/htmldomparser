@@ -1,0 +1,18 @@
+{
+	"name": "jorgecasas/htmldomparser",
+	"description": "PHP HTML DOM Parser",
+	"keywords": ["dom", "parser", "html", "php"],
+    "homepage": "https://github.com/jorgecasas/htmldomparser",
+	"license": "GPLv3",
+	"authors": [
+        {
+            "name": "ITERNOVA",
+            "email": "soportetecnico@iternova.net",
+            "homepage": "http://www.iternova.net",
+            "role": "Developers"
+        }
+    ],
+	"require": {
+		"php": ">=5.3.0"
+	}
+}
