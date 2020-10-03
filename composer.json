@@ -8,7 +8,7 @@
     "php"
   ],
   "homepage": "https://github.com/jorgecasas/htmldomparser",
-  "license": "GPLv3",
+  "license": "GPL-3.0-or-later",
   "authors": [
     {
       "name": "ITERNOVA",
